@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Expecto patronum!",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T10:40:56.997503Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Harry Potter - Expecto Patronum (Goblins From Mars Trap Remix)",
+      "artist": "Goblins from Mars",
+      "has_synced": true,
+      "path": "select/01_Harry_Potter_-_Expecto_Patronum_(Goblins_From_Mars_Trap_Remix)_Goblins_from_Mars.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Expecto Patronum",
+      "artist": "Kim Hyun Joong",
+      "has_synced": true,
+      "path": "select/02_Expecto_Patronum_Kim_Hyun_Joong.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Harry Potter - Expecto Patronum (Goblins From Mars Trap Remix)",
+      "artist": "Goblins From Mars",
+      "has_synced": true,
+      "path": "select/03_Harry_Potter_-_Expecto_Patronum_(Goblins_From_Mars_Trap_Remix)_Goblins_From_Mars.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Expecto Patronum",
+      "artist": "Goblins from Mars",
+      "has_synced": true,
+      "path": "select/04_Expecto_Patronum_Goblins_from_Mars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Expecto patronum!",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_Expecto_patronum!_ピーナッツくん.txt"
+    }
+  ]
+}
